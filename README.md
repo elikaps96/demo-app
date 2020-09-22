@@ -1,1 +1,1 @@
-# my-public-repo
+# demo-app
